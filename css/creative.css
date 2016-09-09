@@ -260,6 +260,12 @@ header .header-content .header-content-inner p {
   align-items: center;
 }
 
+@media (max-width: 400px) {
+  .portfolio-box .portfolio-box-caption {
+  height: 45%;
+  }
+}
+
 .portfolio-box .portfolio-box-caption .portfolio-box-caption-content {
   width: 100%;
   text-align: center;
